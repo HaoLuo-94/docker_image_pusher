@@ -1,1 +1,1 @@
-docker pull ai/qwen3.5:latest
+--platform=linux/amd64 ai/qwen3.5:latest
