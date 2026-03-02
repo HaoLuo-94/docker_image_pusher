@@ -1,1 +1,1 @@
-scratch
+docker pull ai/qwen3.5:latest
